@@ -1,0 +1,6 @@
+@mixin contenedores ( $display, $justify, $align, $margen) { 
+    display: $display;
+    justify-content: $justify;
+    align-items: $align;
+    margin-bottom: $margen; 
+}

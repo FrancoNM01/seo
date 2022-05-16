@@ -1,0 +1,1 @@
+Buenas, puse descripcion a cada pagina, titulo a cada pagina, cambie los h2 por h1, cree el sitemaps y agregue los alt a las imagenes
